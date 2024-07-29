@@ -1,5 +1,5 @@
 const Item = (props) => {
-  return <li className="list-group-item">{props.foodItem}</li>;
+  return <li className="list-group-item ss-item">{props.foodItem}</li>;
 };
 export default Item;
 
