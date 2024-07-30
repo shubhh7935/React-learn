@@ -1,0 +1,12 @@
+/*only created modular css for items used only for single components.
+others are kept as it is in global css*/
+input{
+  width: 100%;
+}
+
+.ss-button{
+  min-width: 80px;
+}
+.ss-row{
+  margin: 18px 5px;
+}
